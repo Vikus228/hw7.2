@@ -43,7 +43,7 @@
 }
 
 .main {
-    background-image: url(../images/Фон.jpg);
+    background-image: url(../img/Фон.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: grid;
